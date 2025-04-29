@@ -85,7 +85,7 @@
                         </div>
                         <div>
                             <span class="about_info-title">10+</span>
-                            <span class="about_info-name">Completed <br>project</span>
+                            <span class="about_info-name">Completed <br>projects</span>
                         </div>
                         <div>
                             <span class="about_info-title">01+</span>
@@ -116,7 +116,7 @@
 
                             <div>
                                 <h1 class="skills_title">Frontend developer</h1>
-                                <span class="skills_subtitle">More than 1 years</span>
+                                <span class="skills_subtitle">More than 1 year(s)</span>
                             </div>
 
                             <i class="uil uil-angle-down skills_arrow"></i>
@@ -167,7 +167,7 @@
 
                             <div>
                                 <h1 class="skills_title">Backend developer</h1>
-                                <span class="skills_subtitle">More than 1 years</span>
+                                <span class="skills_subtitle">More than 1 year(s)</span>
                             </div>
 
                             <i class="uil uil-angle-down skills_arrow"></i>
