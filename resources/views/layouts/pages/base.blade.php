@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        <title>Responsive Portfolio Website</title>
+        <title>merius-portfolio</title>
         <!-- Fonts -->
        <link rel="stylesheet" href="{{ asset('template/assets/fonts/unicons/css/line.css')}}">
         <!-- CSS -->
