@@ -8,7 +8,7 @@
                     </div>
 
                     <div class="home_data">
-                        <h1 class="home_title">Hi, I'am Terry Ntuli</h1>
+                        <h1 class="home_title">Hi, I am Terry Ntuli</h1>
                         <h3 class="home_subtitle">FullStack Web developer</h3>
                         <p class="home_description">
                             Extensive experience in web design, front-end and back-end development, 
@@ -105,7 +105,7 @@
             <!--==================== SKILLS ====================-->
             <section class="skills section" id="skills">
               <h2 class="section__title">Skills</h2>
-              <span class="section__subtitle">My technical lever</span>
+              <span class="section__subtitle">My technical level</span>
 
               <div class="skills_container container grid">
                 <div>
@@ -280,7 +280,7 @@
             <!--==================== QUALIFICATION ====================-->
             <section class="qualification section">
               <h2 class="section__title">Qualification</h2>
-              <span class="section__subtitle">My personal journel</span>
+              <span class="section__subtitle">My personal journal</span>
 
               <div class="qualification_container container">
                 <div class="qualification_tabs">
@@ -301,7 +301,7 @@
                       <div class="qualification_data">
                         <div>
                             <h3 class="qualification_title">Software Development</h3>
-                            <span class="qualification_subtitle">Tshwane University of Technplogy</span>
+                            <span class="qualification_subtitle">Tshwane University of Technology</span>
                             <div class="qualificaation_calender">
                                 <i class="uil uil-calender-alt"></i>
                                 2019 - 2024
@@ -323,7 +323,7 @@
 
                         <div>
                             <h3 class="qualification_title">NSC: Matric</h3>
-                            <span class="qualification_subtitle">Inkunzi Srcondary School</span>
+                            <span class="qualification_subtitle">Inkunzi Secondary School</span>
                             <div class="qualificaation_calender">
                                 <i class="uil uil-calender-alt"></i>
                                 2014 - 2017
@@ -341,7 +341,7 @@
                         <!--============= QUALIFICATION 1 ===========-->  
                         <div class="qualification_data">
                           <div>
-                              <h3 class="qualification_title">Software Enginner Intern</h3>
+                              <h3 class="qualification_title">Software Engineer Intern</h3>
                               <span class="qualification_subtitle">DIGITAL XPERT</span>
                               <div class="qualificaation_calender">
                                   <i class="uil uil-calender-alt"></i>
@@ -366,7 +366,7 @@
             <!--==================== SERVICES ====================-->
             <section class="services section" id="services">
               <h2 class="section__title">Services</h2> 
-              <span class="section__subtitle">What is offer</span> 
+              <span class="section__subtitle">What i offer</span> 
 
               <div class="services_container container grid">
                 <!--============== SERVICES 1 =============-->
