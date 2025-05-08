@@ -3,7 +3,7 @@
       <div class="footer_container container grid">
           <div>
               <h1 class="footer_title">Terry Ntuli</h1>
-              <span class="footer_subtitle">FullStack Web developer</span>
+              <span class="footer_subtitle">Software developer</span>
               <p class="footer_subtitle">
                 Extensive experience in Software development, front-end and back-end development, 
                 with a focus on delivering high-quality solutions.
