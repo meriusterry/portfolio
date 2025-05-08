@@ -4,14 +4,14 @@
             <section class="home section" id="home">
                 <div class="home_container container grid">
                     <div class="home_img">
-                        <img src="../../template/assets/img/pic2.png" alt="">
+                        <img src="../../template/assets/img/pic4.png" alt="">
                     </div>
 
                     <div class="home_data">
                         <h1 class="home_title">Hi, I am Terry Ntuli</h1>
-                        <h3 class="home_subtitle">FullStack Web developer</h3>
+                        <h3 class="home_subtitle">Software developer</h3>
                         <p class="home_description">
-                            Extensive experience in web design, front-end and back-end development, 
+                            Extensive experience in software development, front-end and back-end development, 
                             with a strong focus on delivering high-quality solutions.
                         </p>
                         <a href="#contact" class="button button--flex">
@@ -26,13 +26,13 @@
                         <div class="home_social">
                             <span class="home_social-follow">Follow Me</span>
                             <div class="home_social-links">
-                                <a href="linkedin.com/in/merius-ntuli-a605a3166" target="_blank" class="home_social-icon">
+                                <a href="" target="_blank" class="home_social-icon">
                                     <i class="uil uil-linkedin-alt"></i>
                                 </a>
-                                <a href="https://www.dribbble.com" target="_blank" class="home_social-icon">
+                                <a href="https://merius-portfolio.laravel.cloud/#" target="_blank" class="home_social-icon">
                                     <i class="uil uil-dribbble"></i>
                                 </a>
-                                <a href="github.com/meriusterry" target="_blank" class="home_social-icon">
+                                <a href="#" target="_blank" class="home_social-icon">
                                     <i class="uil uil-github-alt"></i>
                                 </a>
                             </div>
@@ -50,7 +50,7 @@
                                     <a href="https://www.linkedin.com" target="_blank" class="home_social-icon">
                                         <i class="uil uil-linkedin-alt"></i>
                                     </a>
-                                    <a href="https://www.dribbble.com" target="_blank" class="home_social-icon">
+                                    <a href="https://merius-portfolio.laravel.cloud/#" target="_blank" class="home_social-icon">
                                         <i class="uil uil-dribbble"></i>
                                     </a>
                                     <a href="https://www.github.com" target="_blank" class="home_social-icon">
@@ -75,7 +75,7 @@
 
                  <div class="about_data">
                     <p class="about_description">
-                        Full-Stack Web Developer with extensive knowledge and years of experience in web technologies and UI/UX design, 
+                        Full-Stack Software developer with extensive knowledge and years of experience in software technologies and UI/UX design, 
                         dedicated to delivering high-quality solutions.
                     </p>
                     <div class="about_info">
@@ -102,197 +102,197 @@
                </div>
             </section>
 
-            <!--==================== SKILLS ====================-->
-            <section class="skills section" id="skills">
-              <h2 class="section__title">Skills</h2>
-              <span class="section__subtitle">My technical level</span>
-
-              <div class="skills_container container grid">
-                <div>
-                    <!--=========== SKILL 1 ============-->
-                    <div class="skills_content skills_open">
-                        <div class="skills_header">
-                            <i class="uil uil-brackets-curly skills_icon"></i>
-
-                            <div>
-                                <h1 class="skills_title">Frontend developer</h1>
-                                <span class="skills_subtitle">More than 1 year(s)</span>
-                            </div>
-
-                            <i class="uil uil-angle-down skills_arrow"></i>
-                        </div>
-                        <div class="skills_list grid">
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">HTML</h3>
-                                    <span class="skills_number">90%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_html"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">CSS</h3>
-                                    <span class="skills_number">80%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_css"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">TailwindCSS</h3>
-                                    <span class="skills_number">90%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_css"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">JavaScript</h3>
-                                    <span class="skills_number">95%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_javascript"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--=========== SKILL 2 ============-->
-                    <div class="skills_content skills_open">
-                        <div class="skills_header">
-                            <i class="uil uil-server-network skills_icon"></i>
-
-                            <div>
-                                <h1 class="skills_title">Backend developer</h1>
-                                <span class="skills_subtitle">More than 1 year(s)</span>
-                            </div>
-
-                            <i class="uil uil-angle-down skills_arrow"></i>
-                        </div>
-                        <div class="skills_list grid">
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">PHP</h3>
-                                    <span class="skills_number">90%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_php"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">Node JS</h3>
-                                    <span class="skills_number">70%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_nodejs"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">C++</h3>
-                                    <span class="skills_number">80%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_python"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">java</h3>
-                                    <span class="skills_number">65%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_ruby"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">SQL</h3>
-                                    <span class="skills_number">95%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_ruby"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <!--=========== SKILL 3 ============-->
-                    <div class="skills_content skills_open">
-                        <div class="skills_header">
-                            <i class="uil uil-server-network skills_icon"></i>
-
-                            <div>
-                                <h1 class="skills_title">Framework</h1>
-                                <span class="skills_subtitle">More than 1 year(s)</span>
-                            </div>
-
-                            <i class="uil uil-angle-down skills_arrow"></i>
-                        </div>
-                        <div class="skills_list grid">
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">Laravel</h3>
-                                    <span class="skills_number">95%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_figma"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">React</h3>
-                                    <span class="skills_number">70%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_sketch"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">Spring </h3>
-                                    <span class="skills_number">60%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_adobexd"></span>
-                                </div>
-                            </div>
-                            <div class="skills_data">
-                                <div class="skills_titles">
-                                    <h3 class="skills_name">Tailwind CSS</h3>
-                                    <span class="skills_number">90%</span>
-                                </div>
-                                <div class="skills_bar">
-                                    <span class="skills_percentage skills_photoshop"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+          <!--==================== SKILLS ====================-->
+<section class="skills section" id="skills">
+    <h2 class="section__title">Skills</h2>
+    <span class="section__subtitle">My technical level</span>
+  
+    <div class="skills_container container grid">
+      <div>
+        <!--=========== SKILL 1 ============-->
+        <div class="skills_content skills_open">
+          <div class="skills_header">
+            <i class="uil uil-brackets-curly skills_icon"></i>
+            <div>
+              <h1 class="skills_title">Frontend developer</h1>
+              <span class="skills_subtitle">More than 1 year(s)</span>
+            </div>
+            <i class="uil uil-angle-down skills_arrow"></i>
+          </div>
+          <div class="skills_list grid">
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">HTML</h3>
+                <span class="skills_number">90%</span>
               </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 90%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">CSS</h3>
+                <span class="skills_number">80%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 80%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">TailwindCSS</h3>
+                <span class="skills_number">90%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 90%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">JavaScript</h3>
+                <span class="skills_number">95%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 95%;"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+        <!--=========== SKILL 2 ============-->
+        <div class="skills_content skills_open">
+          <div class="skills_header">
+            <i class="uil uil-server-network skills_icon"></i>
+            <div>
+              <h1 class="skills_title">Backend developer</h1>
+              <span class="skills_subtitle">More than 1 year(s)</span>
+            </div>
+            <i class="uil uil-angle-down skills_arrow"></i>
+          </div>
+          <div class="skills_list grid">
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">PHP</h3>
+                <span class="skills_number">90%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 90%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">Node JS</h3>
+                <span class="skills_number">70%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 70%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">C++</h3>
+                <span class="skills_number">80%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 80%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">Java</h3>
+                <span class="skills_number">65%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 65%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">SQL</h3>
+                <span class="skills_number">95%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 95%;"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+      <div>
+        <!--=========== SKILL 3 ============-->
+        <div class="skills_content skills_open">
+          <div class="skills_header">
+            <i class="uil uil-server-network skills_icon"></i>
+            <div>
+              <h1 class="skills_title">Framework</h1>
+              <span class="skills_subtitle">More than 1 year(s)</span>
+            </div>
+            <i class="uil uil-angle-down skills_arrow"></i>
+          </div>
+          <div class="skills_list grid">
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">Laravel</h3>
+                <span class="skills_number">95%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 95%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">React</h3>
+                <span class="skills_number">70%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 70%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">Spring</h3>
+                <span class="skills_number">60%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 60%;"></span>
+              </div>
+            </div>
+            <div class="skills_data">
+              <div class="skills_titles">
+                <h3 class="skills_name">Tailwind CSS</h3>
+                <span class="skills_number">90%</span>
+              </div>
+              <div class="skills_bar">
+                <span class="skills_percentage" style="width: 90%;"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
             </section>
 
             <!--==================== QUALIFICATION ====================-->
-            <section class="qualification section">
+            <section class="qualification section ">
               <h2 class="section__title">Qualification</h2>
               <span class="section__subtitle">My personal journal</span>
 
               <div class="qualification_container container">
-                <div class="qualification_tabs">
-                    <div class="qualificaction_button button--flex qualification_active" data-target="#education">
+                <div class="qualification_tabs nav-item ">
+                    <div class="qualificaction_button button--flex nav_link  " data-target="#education">
                       <i class="uil uil-graduation-cap qualification_icon"></i>
                       Education
                     </div>
-                    <div class="qualificaction_button button--flex" data-target="#work">
-                     <i class="uil uil-briefcase-alt qualification-icon"></i>
-                     Work
+                    
+                    <div class="qualificaction_button button--flex nav_link " data-target="#work">
+                      <i class="uil uil-briefcase-alt qualification-icon"></i>
+                      Work Experience
                     </div>
-                </div>
+                  </div>
+                  
 
                 <div class="qualification_sections">
                     <!--========== QUALIFICATION CONTENT 1 ==========-->
@@ -304,7 +304,7 @@
                             <span class="qualification_subtitle">Tshwane University of Technology</span>
                             <div class="qualificaation_calender">
                                 <i class="uil uil-calender-alt"></i>
-                                2019 - 2024
+                                2019 - Oct 2024
                             </div>
                         </div>
                         <div>
@@ -326,7 +326,7 @@
                             <span class="qualification_subtitle">Inkunzi Secondary School</span>
                             <div class="qualificaation_calender">
                                 <i class="uil uil-calender-alt"></i>
-                                2014 - 2017
+                                2014 - Dec 2017
                             </div>
                         </div>
                         
@@ -345,7 +345,7 @@
                               <span class="qualification_subtitle">DIGITAL XPERT</span>
                               <div class="qualificaation_calender">
                                   <i class="uil uil-calender-alt"></i>
-                                  2023 - Current
+                                 Oct 2023 - Mar 2025
                               </div>
                           </div>
                           <div>
@@ -362,6 +362,8 @@
                 </div>
               </div>
             </section>
+
+              
 
             <!--==================== SERVICES ====================-->
             <section class="services section" id="services">
@@ -530,6 +532,21 @@
                
                     <!--============ PORTFOLIO 1 ==============-->
                     <div class="portfolio_content grid swiper-slide">
+                        <img src="../../template/assets/img/portfolio3.jpeg" alt="" class="portfolio_img">
+
+                        <div class="portfolio_data">
+                            <h3 class="portfolio_title">Leave Management System</h3>
+                            <p class="portfolio_description">
+                                A system that automates leave requests, approvals, and tracking for employees and managers,
+                                 with features for leave balance management and history viewing.
+                            </p>
+                            <a href="https://leave-manament-system-main-hdhjdj.laravel.cloud/dashboard" class="button button--flex button--small portfolio_button">
+                                Demo 
+                                <i class="uil uil-arrow-right button__icon"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="portfolio_content grid swiper-slide">
                         <img src="../../template/assets/img/portfolio2.jpeg" alt="" class="portfolio_img">
 
                         <div class="portfolio_data">
@@ -546,21 +563,7 @@
                         </div>
                     </div>
                     <!--============ PORTFOLIO 2 ==============-->
-                    <div class="portfolio_content grid swiper-slide">
-                        <img src="../../template/assets/img/portfolio3.jpeg" alt="" class="portfolio_img">
-
-                        <div class="portfolio_data">
-                            <h3 class="portfolio_title">Leave Management System</h3>
-                            <p class="portfolio_description">
-                                A system that automates leave requests, approvals, and tracking for employees and managers,
-                                 with features for leave balance management and history viewing.
-                            </p>
-                            <a href="#" class="button button--flex button--small portfolio_button">
-                                Demo 
-                                <i class="uil uil-arrow-right button__icon"></i>
-                            </a>
-                        </div>
-                    </div>
+                  
                          <!--============ PORTFOLIO 3 ==============-->
                          <div class="portfolio_content grid swiper-slide">
                             <img src="../../template/assets/img/portfolio1.jpeg" alt="" class="portfolio_img">
@@ -571,7 +574,7 @@
                                     Website adaptable to all devices,with ui description
                                     and animated interactions.
                                 </p>
-                                <a href="#" class="button button--flex button--small portfolio_button">
+                                <a href="https://merius-portfolio.laravel.cloud/#" class="button button--flex button--small portfolio_button">
                                     Demo 
                                     <i class="uil uil-arrow-right button__icon"></i>
                                 </a>
@@ -597,14 +600,14 @@
                 <div class="project_container container grid">
                     <div class="project_data">
                         <h2 class="project_title">You have new project</h2>
-                        <p class="project_description">Contact me now and get a discounted</p>
+                        <p class="project_description">Contact me now and get a discount</p>
                         <a href="#contact" class="button button--flex button--white">
                             Contact Me 
                             <i class="uil uil-message project_icon button_icon"></i>
                         </a>
                     </div>
 
-                    <img src="../../template/assets/img/pic3.png" alt="" class="project_img">
+                    <img src="../../template/assets/img/pic4.png" alt="" class="project_img">
                 </div>
               </div>
             </section>

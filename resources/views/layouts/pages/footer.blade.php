@@ -5,7 +5,7 @@
               <h1 class="footer_title">Terry Ntuli</h1>
               <span class="footer_subtitle">FullStack Web developer</span>
               <p class="footer_subtitle">
-                Extensive experience in web design, front-end and back-end development, 
+                Extensive experience in Software development, front-end and back-end development, 
                 with a focus on delivering high-quality solutions.
             </p>
             
